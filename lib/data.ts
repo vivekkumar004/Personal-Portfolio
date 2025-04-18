@@ -56,7 +56,7 @@ export const projectsData = [
     title: "Mahalo",
     description:
       "I worked as a front-end developer.It was an Internal use website which featured NextJs for the customer-side view and ReactJs for the admin side.Employed Sass and Mui to design",
-    tags: ["ReactJs", "Next.js"],
+    tags: ["ReactJs", "Next.js", "Redux ToolKit", "MUI"],
     imageUrl: Mahalo,
   },
   {
