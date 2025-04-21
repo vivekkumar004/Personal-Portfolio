@@ -1,5 +1,5 @@
 Important notes : 
-create a account on resend to write Emails
+create a account on resend to write Emails then create a env file then add this RESEND_API_KEY variable to work.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
