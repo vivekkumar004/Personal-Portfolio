@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "Associate Software Engineer",
     location: "Bangalore, India",
     description:
-      "I worked as a front-end developer mostly in React-Native for Builder.ai and also with ReactJs, NextJs for 2.2 years",
+      "I worked as a front-end developer mostly in React-Native for Builder.ai and also with ReactJs, NextJs for 2.3 years",
     icon: React.createElement(FaReact),
     date: "2022 - 2024",
   },
@@ -76,13 +76,17 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
+  "React",
+  "React Native",
+  "Next.js",
+  "TypeScript",
+  "JavaScript",
   "HTML",
   "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
   "Git",
   "Tailwind",
   "Redux Toolkit",
+  "MUI",
+  "SaaS",
+  "FireBase",
 ] as const;
