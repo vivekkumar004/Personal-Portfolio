@@ -42,11 +42,12 @@ function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy travelling,
-        reading books, watching movies/series, and playing chess. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning <span className="font-medium">back-end development</span>. I'm
-        also learning how to play a guitar.
+        <span className="italic">When I&apos;m not coding</span>, I enjoy
+        travelling, reading books, watching movies/series, and playing chess. I
+        also enjoy <span className="font-medium">learning new things</span>. I
+        am currently learning{" "}
+        <span className="font-medium">back-end development</span>. I&apos;m also
+        learning how to play a guitar.
       </p>
     </motion.section>
   );
